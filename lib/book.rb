@@ -5,7 +5,7 @@ def initialize(title)
 end
 
 def title
-  puts "And Then There Were None"
+  @title
 end
 
 
